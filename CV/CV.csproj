@@ -27,6 +27,7 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
     <Content Include="wwwroot\images\CV\detelin_popov.png" />
+    <Content Include="wwwroot\images\CV\detelin_popov.png.png" />
     <Content Include="wwwroot\images\CV\job_title.png" />
     <Content Include="wwwroot\images\CV\pariplay_logo.png" />
     <Content Include="wwwroot\images\CV\personal_info.png" />
@@ -39,6 +40,7 @@
     <Content Include="wwwroot\images\CV\professional_experience.png" />
     <Content Include="wwwroot\images\CV\profile_photo.png" />
     <Content Include="wwwroot\images\CV\section_introduction.png" />
+    <Content Include="wwwroot\images\CV\skills.png" />
     <Content Include="wwwroot\images\CV\technical_background.png" />
     <Content Include="wwwroot\images\CV\xoom.jpg" />
     <Content Include="wwwroot\images\CV\xoom1.png" />
