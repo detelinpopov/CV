@@ -1,6 +1,6 @@
 ﻿.main-info-container {
-    padding-top: 10px;
     padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 .section-container {
@@ -14,10 +14,10 @@
 }
 
 #divMap {
-    height: 500px;
-    width: 100%;
     display: none;
-    padding-top: 10px; 
+    height: 500px;
+    padding-top: 10px;
+    width: 100%;
 }
 
 .job-header {
@@ -27,26 +27,26 @@
 }
 
 .company {
-    padding-top: 5px;
     padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 .period {
-    padding-top: 5px;
-    padding-bottom: 10px;
     font-family: Nunito Sans Light;
     font-size: 18px;
+    padding-bottom: 10px;
+    padding-top: 5px;
 }
 
 #pariplay-info {
     display: none;
-    padding-top: 5px;
     padding-bottom: 20px;
+    padding-top: 5px;
 }
 
 .pariplay-images {
-    padding-top: 10px;
     padding-bottom: 5px;
+    padding-top: 10px;
 }
 
 .imageRotator {
@@ -54,3 +54,4 @@
     width: 600px;
 }
 
+#xommworks-images-container { padding-bottom: 20px; }

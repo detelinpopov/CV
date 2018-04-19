@@ -43,6 +43,7 @@
     <Content Include="wwwroot\images\CV\skills.png" />
     <Content Include="wwwroot\images\CV\technical_background.png" />
     <Content Include="wwwroot\images\CV\xoom.jpg" />
+    <Content Include="wwwroot\images\CV\xoom.png" />
     <Content Include="wwwroot\images\CV\xoom1.png" />
     <Content Include="wwwroot\images\CV\xoom2.jpg" />
     <Content Include="wwwroot\images\CV\xoomworks_logo.png" />
