@@ -49,8 +49,8 @@
     padding-bottom: 5px;
 }
 
-#imageRotator {
-    height: 30%;
-    width: 30%;
+.imageRotator {
+    height: 300px;
+    width: 600px;
 }
 

@@ -1,9 +1,9 @@
 ﻿$(document).ready(function() {
     $("#expand-country").click(function () {
         if ($("#divMap").is(':hidden')) {
-            $("#divMap").show(1500);
+            $("#divMap").show(1200);
         } else {
-            $("#divMap").hide(1500);
+            $("#divMap").hide(1200);
         }
     });
 
@@ -15,9 +15,9 @@
         }
     });
 
-    $("#imageRotator").bannerRotator({
-        width: 700,
-        height: 400,
+    $(".imageRotator").bannerRotator({
+        width: 600,
+        height: 300,
         cpanelPosition: "center bottom",
         navButtons: "large",
         navThumbs: true,
