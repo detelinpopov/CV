@@ -10761,10 +10761,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Detelin Popov\\Documents\\Visual Studio 2017\\Projects\\CV\\CV\\CV.csproj",
+      "projectUniqueName": "C:\\Users\\Detelin Popov\\Desktop\\CV\\CV\\CV.csproj",
       "projectName": "CV",
-      "projectPath": "C:\\Users\\Detelin Popov\\Documents\\Visual Studio 2017\\Projects\\CV\\CV\\CV.csproj",
-      "outputPath": "C:\\Users\\Detelin Popov\\Documents\\Visual Studio 2017\\Projects\\CV\\CV\\obj\\",
+      "projectPath": "C:\\Users\\Detelin Popov\\Desktop\\CV\\CV\\CV.csproj",
+      "outputPath": "C:\\Users\\Detelin Popov\\Desktop\\CV\\CV\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

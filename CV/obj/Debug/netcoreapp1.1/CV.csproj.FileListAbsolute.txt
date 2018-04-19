@@ -6,3 +6,12 @@ c:\users\detelin popov\documents\visual studio 2017\Projects\CV\CV\bin\Debug\net
 c:\users\detelin popov\documents\visual studio 2017\Projects\CV\CV\obj\Debug\netcoreapp1.1\CV.AssemblyInfo.cs
 c:\users\detelin popov\documents\visual studio 2017\Projects\CV\CV\obj\Debug\netcoreapp1.1\CV.dll
 c:\users\detelin popov\documents\visual studio 2017\Projects\CV\CV\obj\Debug\netcoreapp1.1\CV.pdb
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Debug\netcoreapp1.1\CV.deps.json
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Debug\netcoreapp1.1\CV.runtimeconfig.json
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Debug\netcoreapp1.1\CV.runtimeconfig.dev.json
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Debug\netcoreapp1.1\CV.dll
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Debug\netcoreapp1.1\CV.pdb
+C:\Users\Detelin Popov\Desktop\CV\CV\obj\Debug\netcoreapp1.1\CV.AssemblyInfo.cs
+C:\Users\Detelin Popov\Desktop\CV\CV\obj\Debug\netcoreapp1.1\CV.dll
+C:\Users\Detelin Popov\Desktop\CV\CV\obj\Debug\netcoreapp1.1\CV.pdb
+C:\Users\Detelin Popov\Desktop\CV\CV\obj\Debug\netcoreapp1.1\CV.csprojResolveAssemblyReference.cache
