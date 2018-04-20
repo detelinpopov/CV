@@ -31,7 +31,7 @@
             ['Teamwork', 20],           
             ['Ability to explain my own ideaS', 20],         
             ['Listen carefully to others', 20],
-            ['Can sense how others feel based on their nonverbal communication', 20]
+            ['Nonverbal communication', 20]
         ]
     }]
 });
