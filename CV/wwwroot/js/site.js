@@ -18,9 +18,10 @@
     $(".imageRotator").bannerRotator({
         width: 600,
         height: 300,
-        cpanelPosition: "center bottom",
+        cpanelPosition: "right bottom",
         navButtons: "large",
         navThumbs: true,
+        thumbnails: "none",
         tooltip: "image",
         depth: "auto",
         kbEffect: "random"

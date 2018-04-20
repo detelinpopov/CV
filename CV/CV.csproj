@@ -1259,7 +1259,7 @@
     <Content Include="wwwroot\js\ImageRotator\jquery.easing.1.3.min.js" />
     <Content Include="wwwroot\js\map.js" />
     <Content Include="wwwroot\js\map.min.js" />
-    <Content Include="wwwroot\js\skillsChart - Copy.js" />
+    <Content Include="wwwroot\js\ScrollReveal\scrollreveal.min.js" />
     <Content Include="wwwroot\js\skillsChart.js" />
     <Content Include="wwwroot\js\softSkillsChart.js" />
   </ItemGroup>
