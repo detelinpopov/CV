@@ -53,3 +53,11 @@
 #interoute-images-container { padding-bottom: 20px; }
 
 .pariplay-info-row { padding-bottom: 10px; }
+
+.image-frame {
+    border-color: #0094BF;
+    border-style: groove;
+    border-width: 9px;
+    width: 650px;
+    margin: 0 auto;
+}
