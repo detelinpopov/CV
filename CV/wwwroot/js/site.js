@@ -1,4 +1,7 @@
-﻿$(document).ready(function() {
+﻿$(document).ready(function () {
+    window.sr = ScrollReveal({ reset: true });
+    sr.reveal(".scroll-reveal", { duration: 1000, mobile: true });
+
     $("#expand-country").click(function () {
         if ($("#divMap").is(':hidden')) {
             $("#divMap").show(1200);
