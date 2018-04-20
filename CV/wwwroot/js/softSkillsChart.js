@@ -29,7 +29,7 @@
         name: 'Level',
         data: [
             ['Teamwork', 20],           
-            ['Ability to explain my own ideaS', 20],         
+            ['Ability to explain my own ideas', 20],         
             ['Listen carefully to others', 20],
             ['Nonverbal communication', 20]
         ]
