@@ -17,15 +17,12 @@
     <Content Include="wwwroot\css\ammap.css" />
     <Content Include="wwwroot\css\ImageRotator\banner-rotator.css" />
     <Content Include="wwwroot\css\ImageRotator\banner-rotator.min.css" />
-    <Content Include="wwwroot\css\map.css">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
     <Content Include="wwwroot\css\cv.css" />
     <Content Include="wwwroot\css\cv.min.css" />
-    <Content Include="wwwroot\css\map.min.css" />
-    <Content Include="wwwroot\css\site - Copy.css">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
+    <Content Include="wwwroot\images\CV\CodeImages\myCode1.png" />
+    <Content Include="wwwroot\images\CV\CodeImages\myCode2.png" />
+    <Content Include="wwwroot\images\CV\CodeImages\myCode3.png" />
+    <Content Include="wwwroot\images\CV\CodeImages\myCode4.png" />
     <Content Include="wwwroot\images\CV\detelin_popov.png" />
     <Content Include="wwwroot\images\CV\detelin_popov.png.png" />
     <Content Include="wwwroot\images\CV\job_title.png" />

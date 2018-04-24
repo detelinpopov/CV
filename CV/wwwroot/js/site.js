@@ -29,4 +29,15 @@
         depth: "auto",
         kbEffect: "random"
     });
+
+    $(".code-image-rotator").bannerRotator({
+        width: 600,
+        height: 400,
+        cpanelPosition: "right bottom",
+        navButtons: "large",
+        navThumbs: true,
+        tooltip: "image",
+        depth: "auto",
+        kbEffect: "random"
+    });
 });

@@ -1,0 +1,77 @@
+﻿.main-info-container {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.section-font {
+    font-family: Nunito Sans Light;
+    font-size: 18px;
+}
+
+.heading-font {
+    font-family: Nunito Sans Light;
+    font-size: 40px;
+}
+
+.title-font {
+    font-family: Nunito Sans Light;
+    font-size: 30px;
+}
+
+#divMap {
+    height: 500px;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.job-header {
+    font-family: Nunito Sans Light;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.company {
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.period {
+    font-family: Nunito Sans Light;
+    font-size: 18px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+#pariplay-info {
+    display: none;
+    padding-bottom: 20px;
+    padding-top: 5px;
+}
+
+.pariplay-images {
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+.imageRotator {
+    height: 300px;
+    width: 600px;
+}
+
+#xommworks-images-container { padding-bottom: 20px; }
+
+#interoute-images-container { padding-bottom: 20px; }
+
+.pariplay-info-row { padding-bottom: 10px; }
+
+.image-frame {
+    border-color: #0094BF;
+    border-style: groove;
+    border-width: 9px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.profile-photo-border {
+    border-radius: 30%; 
+}

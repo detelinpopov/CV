@@ -1,0 +1,9 @@
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Release\netcoreapp1.1\CV.deps.json
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Release\netcoreapp1.1\CV.runtimeconfig.json
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Release\netcoreapp1.1\CV.runtimeconfig.dev.json
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Release\netcoreapp1.1\CV.dll
+C:\Users\Detelin Popov\Desktop\CV\CV\bin\Release\netcoreapp1.1\CV.pdb
+C:\Users\Detelin Popov\Desktop\CV\CV\obj\Release\netcoreapp1.1\CV.csprojResolveAssemblyReference.cache
+C:\Users\Detelin Popov\Desktop\CV\CV\obj\Release\netcoreapp1.1\CV.AssemblyInfo.cs
+C:\Users\Detelin Popov\Desktop\CV\CV\obj\Release\netcoreapp1.1\CV.dll
+C:\Users\Detelin Popov\Desktop\CV\CV\obj\Release\netcoreapp1.1\CV.pdb
