@@ -8,6 +8,16 @@
     font-size: 18px;
 }
 
+.heading-font {
+    font-family: Nunito Sans Light;
+    font-size: 40px;
+}
+
+.title-font {
+    font-family: Nunito Sans Light;
+    font-size: 30px;
+}
+
 #divMap {
     height: 500px;
     padding-top: 10px;
@@ -63,8 +73,5 @@
 }
 
 .profile-photo-border {
-    border-radius: 30%;
-    border-color: gray;
-    border-style: groove;
-    border-width: 9px;
+    border-radius: 30%; 
 }
