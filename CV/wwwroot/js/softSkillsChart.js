@@ -27,11 +27,11 @@
     series: [{
         type: 'pie',
         name: 'Level',
-        data: [
-            ['Teamwork', 20],           
+        data: [   
+            ['Problem solving', 20],
             ['Ability to explain my own ideas', 20],         
-            ['Listen carefully to others', 20],
-            ['Nonverbal communication', 20]
+            ['Listen carefully to others', 20],          
+            ['Teamwork', 20]    
         ]
     }]
 });
