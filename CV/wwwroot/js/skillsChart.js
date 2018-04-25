@@ -26,7 +26,7 @@
     },
     series: [{
         type: 'pie',
-        name: 'Expertise',
+        name: 'Expertise (based on years of experience, technical knowledge and achieved results)',
         data: [
             ['.Net (C#, ASP.Net MVC, Web API)', 50.0],           
             ['JavaScript (Pure JavaScripts, jQuery, AngularJS 2.0)', 20],         
